@@ -1,0 +1,30 @@
+_repo: The-Story-of-a-Pumpkin-Pie_64122
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Willard, A. M.
+    gutenberg_agent_id: '52758'
+    url: http://www.gutenberg.org/2009/agents/52758
+creator:
+  author:
+    agent_name: Barton, William E. (William Eleazar)
+    aliases:
+    - Barton, W. E. (William Eleazar)
+    - Barton, William Eleazar
+    birthdate: 1861
+    deathdate: 1930
+    gutenberg_agent_id: '6665'
+    url: http://www.gutenberg.org/2009/agents/6665
+description: ''
+gutenberg_issued: '2020-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64122'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Story of a Pumpkin Pie
+url: http://www.gutenberg.org/ebooks/64122
